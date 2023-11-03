@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/SCK_Casual01/Materials/Environment_Materials/MAT_PROMO.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/Characters/Mannequin_UE4/PersonalAnimations/Crouch_Idle.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/Characters/Mannequin_UE4/PersonalAnimations/Crouh_Walk.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/Characters/Mannequin_UE4/PersonalAnimations/Idle_Break.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9C/XQ84TQXBWFS9FTY8QFZGQB.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/39/XFAKI0R0ZUT8P55X9J91BD.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/O5/IE04YMRZ4MKCP143UA4THJ.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/Characters/Mannequin_UE4/PersonalAnimations/Walk_Stop.uasset",
+				"C:/Users/sblan/Documents/Unreal Projects/TheRunway/Content/SCK_Casual01/Mannequin/Animations/MM_Idle.uasset"
+			]
+		}
+	]
+}
